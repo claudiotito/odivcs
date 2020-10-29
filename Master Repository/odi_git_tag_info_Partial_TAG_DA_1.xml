@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OdiGitTagInfo>
+   <ParamMap>
+      <param value="/Work Repository/Projects/GitTest/Markers/GRP_STATE_Priorities.xml"/>
+      <param value="/Work Repository/Projects/GitTest/First_Folder/Packages/Scenarios/SCEN_NEW_PACKAGE_SCEN_Version_001.xml"/>
+      <param value="/Work Repository/Projects/GitTest/PROJ_GitTest.xml"/>
+      <param value="/Work Repository/Projects/GitTest/First_Folder/Packages/PACK_New_Package.xml"/>
+      <param value="/Work Repository/Projects/GitTest/First_Folder/FOLD_First_Folder.xml"/>
+      <param value="/Work Repository/Projects/GitTest/Markers/GRP_STATE_Progress.xml"/>
+      <param value="/Work Repository/Projects/GitTest/First_Folder/Mappings/MAP_Mapping1.xml"/>
+      <param value="/Work Repository/Projects/GitTest/Markers/GRP_STATE_Smileys.xml"/>
+      <param value="/Work Repository/Projects/GitTest/First_Folder/Mappings/MAP_New_Mapping.xml"/>
+      <param value="/Master Repository/Contexts/CONT_Global.xml"/>
+      <param value="/Work Repository/Projects/GitTest/First_Folder/Mappings/MAP_New_Mapping2.xml"/>
+      <param value="/Master Repository/Contexts/CONT_Production.xml"/>
+      <param value="/Master Repository/Contexts/CONT_Development.xml"/>
+      <param value="/Master Repository/Contexts/CONT_Test.xml"/>
+   </ParamMap>
+</OdiGitTagInfo>
